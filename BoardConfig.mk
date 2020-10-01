@@ -19,6 +19,9 @@
 
 DEVICE_PATH := device/oneplus/instantnoodlep
 
+# Assertions
+TARGET_OTA_ASSERT_DEVICE := OnePlus8Pro,oneplus8pro,instantnoodlep
+
 # Bluetooth
 BOARD_BLUETOOTH_BDROID_BUILDCFG_INCLUDE_DIR := $(DEVICE_PATH)/bluetooth/include
 
