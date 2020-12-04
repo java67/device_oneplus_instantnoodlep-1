@@ -25,7 +25,7 @@
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
-    $(LOCAL_PATH)/overlay-aosp
+    $(LOCAL_PATH)/overlay-ssos
 
 # Soong namespaces
 PRODUCT_SOONG_NAMESPACES += \
