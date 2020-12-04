@@ -394,4 +394,8 @@
     <!-- Max visible notification icons -->
     <integer name="config_maxVisibleNotificationIcons">6</integer>
     <integer name="config_maxVisibleNotificationIconsOnLock">7</integer>
+
+    <!-- Maximum refresh rate 90 or 120 -->
+    <integer name="config_maxRefreshRate">120</integer>
+
 </resources>
