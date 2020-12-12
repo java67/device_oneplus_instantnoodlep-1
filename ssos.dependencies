@@ -1,13 +1,15 @@
 [
   {
-    "repository"  : "device_oneplus_sm8250-common",
+    "repository"  : "ShapeShiftOS-Devices/device_oneplus_sm8250-common",
     "target_path" : "device/oneplus/sm8250-common",
     "branch"      : "android_11"
+    "remote"      : "github"
   },
   {
     "repository"  : "PixelExperience-Devices/kernel_oneplus_sm8250",
     "target_path" : "kernel/oneplus/sm8250",
     "branch"      : "eleven"
+    "remote"      : "github"
   },
   {
     "repository"  : "Chandra-Chaganti/vendor_oneplus_sm8250-common",
@@ -16,8 +18,9 @@
     "remote"      : "github"
   },
   {
-    "repository"  : "device_oneplus_common",
+    "repository"  : "ShapeShiftOS-Devices/device_oneplus_common",
     "target_path" : "device/oneplus/common",
     "branch"      : "android_11"
+    "remote"      : "github"
   }
 ]
